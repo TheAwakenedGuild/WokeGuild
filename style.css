@@ -41,6 +41,7 @@ ul {
 
 #text2 {
   vertical-align: middle;
+  text-align: center;
   display: table-cell;
   width: 100px;
   position: relative;
