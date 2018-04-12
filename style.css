@@ -40,7 +40,7 @@ ul {
 }
 
 #text2 {
-  vertical-align: middle;
+  vertical-align: text-bottom;
   text-align: center;
   display: table-cell;
   width: 100px;
