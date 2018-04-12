@@ -39,6 +39,16 @@ ul {
   font-size: 64px;
 }
 
+#text2 {
+  vertical-align: middle;
+  display: table-cell;
+  width: 100px;
+  position: relative;
+  margin-left: 50px;
+  white-space: nowrap;
+  font-size: 30px;
+}
+
 #bold {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
